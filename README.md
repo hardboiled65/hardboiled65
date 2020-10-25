@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 
 🏠 [Homepage](https://hardboiled65.tk)
 
