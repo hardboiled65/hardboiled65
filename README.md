@@ -1,6 +1,8 @@
 Yujeonja's GitHub
 =================
 
+This is Yujeonja's GitHub. Hello!
+
 ### Hello, world! 👋
 
 🏠 [Homepage](https://hardboiled65.tk)
