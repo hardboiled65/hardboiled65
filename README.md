@@ -1,7 +1,7 @@
 Yujeonja's GitHub
 =================
 
-This is Yujeonja's GitHub. Hello!
+This is Yujeonja's GitHub. Hello! Welcome to my GitHub.
 
 ## Links
 
