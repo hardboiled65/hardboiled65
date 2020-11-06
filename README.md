@@ -3,6 +3,7 @@ Yujeonja's GitHub
 
 This is Yujeonja's GitHub. Hello! Welcome to my GitHub.
 
+I'm always hungry. Buy me a donut!🍩
 ## Links
 
 🏠 [Homepage](https://hardboiled65.tk)
