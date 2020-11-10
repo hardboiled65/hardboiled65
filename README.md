@@ -10,7 +10,7 @@ I'm always hungry. Buy me a donut!🍩
 
 ## Projects
 
-⌬ Laniakea
+⌬ [Laniakea](https://github.com/orbitrc/laniakea)
 
 <!--
 **hardboiled65/hardboiled65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
