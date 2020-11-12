@@ -12,6 +12,8 @@ I'm always hungry. Buy me a donut🍩!
 
 ⌬ [Laniakea](https://github.com/orbitrc/laniakea)
 
+𓁐 [Seshat](https://github.com/hardboiled65/seshat-unicode)
+
 <!--
 **hardboiled65/hardboiled65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
