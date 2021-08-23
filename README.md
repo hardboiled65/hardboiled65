@@ -7,7 +7,7 @@ I'm always hungry. Buy me a donut🍩!
 
 ## Links
 
-🏠 [Homepage](https://hardboiled65.tk)
+🏠 [Homepage](https://hardboiled65.io)
 
 ## Projects
 
