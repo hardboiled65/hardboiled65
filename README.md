@@ -1,7 +1,7 @@
-Yujeonja's GitHub
+Yujŏnja's GitHub
 =================
 
-This is Yujeonja's GitHub. Hello! Welcome to my main dev space.
+This is Yujŏnja's GitHub. Hello! Welcome to my main dev space.
 
 I'm always hungry. Buy me a donut🍩!
 
