@@ -5,6 +5,10 @@ This is Yujŏnja's GitHub. Hello! Welcome to my main dev space.
 
 I'm always hungry. Buy me a donut🍩!
 
+Congratulations!
+
+![commits-365](https://github.com/hardboiled65/hardboiled65/raw/master/docs/365.png)
+
 ## Links
 
 🏠 [Homepage](https://hardboiled65.io)
