@@ -1,7 +1,6 @@
-Yujŏnja's GitHub
-=================
+# Aspen Schneider's GitHub
 
-This is Yujŏnja's GitHub. Hello! Welcome to my main dev space.
+Hello! Welcome to my main development space.
 
 I'm always hungry. Buy me a donut🍩!
 
@@ -11,11 +10,7 @@ Congratulations!
 
 ## Links
 
-🏠 [Homepage](https://hardboiled65.io)
-
-## Projects
-
-⌬ [Laniakea](https://github.com/orbitrc/laniakea)
+🏠 [Homepage](https://hardboiled65.io) _not working_
 
 𓁐 [Seshat](https://github.com/hardboiled65/seshat-unicode)
 
